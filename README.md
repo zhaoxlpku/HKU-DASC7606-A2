@@ -1,6 +1,10 @@
 # HKU-DASC7606-A2
 HKU DASC-7606 Assignment 2 NLP: In-context Learning with Large Language Models
 
+**For questions and discussion**,
+- We encourage you to use [GitHub Issues](https://github.com/zhaoxlpku/HKU-DASC7606-A2/issues) of this repository.
+- Or if you prefer online doc: [Discussion doc](https://connecthkuhk-my.sharepoint.com/:w:/g/personal/xlzhao22_connect_hku_hk/ERVExMpV__FAglno7dhtD4kBEqZcj7ycWDBXMf-7j8LsaA?e=QMoJww).
+
 This codebase is only for HKU DASC 7606 (2023-2024) course. Please don't upload your answers or this codebase to any public platforms (e.g., GitHub) before permitted. All rights reserved.
 
 
@@ -246,8 +250,9 @@ Late submission policy:
 
 ### 3.7 Need More Support?
 
-For any questions about the assignment which potentially are common to all students, your shall first look for related resources as follows,
+For any questions about the assignment which potentially are common to all students, you shall first look for related resources as follows,
 - We encourage you to use `GitHub Issues` of this repository.
+- Or if you prefer online doc: [Discussion doc](https://connecthkuhk-my.sharepoint.com/:w:/g/personal/xlzhao22_connect_hku_hk/ERVExMpV__FAglno7dhtD4kBEqZcj7ycWDBXMf-7j8LsaA?e=QMoJww).
 
 For any other private questions, please contact Xueliang Zhao (xlzhao22@connect.hku.hk) via email.
 
