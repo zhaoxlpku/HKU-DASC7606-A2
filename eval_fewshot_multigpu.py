@@ -242,7 +242,7 @@ def main():
     embedder = SentenceTransformer(args.embedder, device=device)
     print(f"loaded {args.embedder}.")
 
-    demonstrations = load_all_demonstrations(args.data_path.replace("test", "train"))
+    demonstrations = load_all_demonstrations(args.data_path.replace("test", "train").replace("validation", "train"))
     demonstration_embeddings = llm_embedder(embedder, [d[0] for d in demonstrations], False) # ndarray: [n_demons, n_dim]
 
     for i in tqdm(range(num_samples), ncols=0, total=num_samples):
